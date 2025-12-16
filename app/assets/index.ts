@@ -7,10 +7,12 @@ import facebook from "@/app/assets/svgs/facebook.svg";
 import twitter from "@/app/assets/svgs/twitter.svg";
 import linkedIn from "@/app/assets/svgs/linkedIn.svg";
 import instagram from "@/app/assets/svgs/instagram.svg";
+import banner_bg from "@/app/assets/images/banner_bg.png";
 
 const assets = {
   images: {
     logo: logo,
+    banner_bg: banner_bg,
   },
   svgs: {
     cart: cart,
